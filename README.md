@@ -15,19 +15,19 @@ A simple frontend-only web app to search for books using the **Open Library API*
 
 ## Features
 
-- 🔍 Search books by title  
-- 🖼️ Display cover image, title, authors, and published year  
-- 📱 Mobile responsive using Bootstrap 5  
-- 💻 100% frontend — no backend needed
+- Search books by title  
+- Display cover image, title, authors, and published year  
+- Mobile responsive using Bootstrap 5  
+- 100% frontend — no backend needed
 
-# Screenshot
-(Add a screenshot of the app here once available)
-
-## 🧠 How It Works
+## How It Works
 
 1. User enters a book title.
 2. The app sends a request to the **Open Library Search API**.
 3. It displays a list of matching books with their covers, authors, and publishing info.
+
+# Screenshot
+![Screenshot](https://github.com/rrushika/book-finder-app/blob/main/Screenshot%20(313).png)
 
 # API Reference
 [Open Library Search API](https://openlibrary.org/dev/docs/api/search) 
