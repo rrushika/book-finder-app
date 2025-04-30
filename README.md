@@ -9,8 +9,8 @@ A simple frontend-only web app to search for books using the **Open Library API*
 ## Tech Used
 
 - **HTML**
-- **CSS / Bootstrap 5**
-- **JavaScript (Vanilla)**
+- **CSS / Bootstrap**
+- **JavaScript**
 - **Open Library API**
 
 ## Features
